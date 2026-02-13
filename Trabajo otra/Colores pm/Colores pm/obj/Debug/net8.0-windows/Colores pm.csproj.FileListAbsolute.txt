@@ -1,0 +1,16 @@
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\bin\Debug\net8.0-windows\Colores pm.exe
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\bin\Debug\net8.0-windows\Colores pm.deps.json
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\bin\Debug\net8.0-windows\Colores pm.runtimeconfig.json
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\bin\Debug\net8.0-windows\Colores pm.dll
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\bin\Debug\net8.0-windows\Colores pm.pdb
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores_pm.Form1.resources
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.csproj.GenerateResource.cache
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.AssemblyInfoInputs.cache
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.AssemblyInfo.cs
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.csproj.CoreCompileInputs.cache
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.dll
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\refint\Colores pm.dll
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.pdb
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\Colores pm.genruntimeconfig.cache
+C:\Users\frank\Desktop\Trabajo otra\Colores pm\Colores pm\obj\Debug\net8.0-windows\ref\Colores pm.dll
